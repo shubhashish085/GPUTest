@@ -2,7 +2,7 @@
 #include <cuda.h>
 
 __global__ void print_kernel(){
-    printf(“Hello world \n”);
+    printf("Hello world \n");
 }
 
 int main (){
